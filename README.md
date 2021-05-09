@@ -6,5 +6,6 @@ This repository holds resources for the 'Teravoxel Images' project I did across 
 ## Contact
 | Contact Method    |                             |
 | ----------------- |:---------------------------:|
-| School Email      | syan612@aucklanduni.ac.nz   |
+| Linkedin          | linkedin.com/sabinayang0311 |
 | Personal Email    | sabinayang0311@gmail.com    |
+| School Email      | syan612@aucklanduni.ac.nz   |

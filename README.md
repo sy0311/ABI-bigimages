@@ -1,4 +1,4 @@
-## Teravoxel Images / 2019-2020 Summer at ABI
+# Teravoxel Images / 2019-2020 Summer at ABI
 
-# Index
+## Index
 This repository holds resources for the 'Teravoxel Images' project I did across the summer of 2019-2020 at ABI.

@@ -1,7 +1,9 @@
-# Teravoxel Images / 2019-2020 Summer at ABI
+# Optimising Interaction with Teravoxel Images / 2019-2020 Summer Project at ABI
 
 ## Index
-This repository holds resources for the 'Teravoxel Images' project I did across the summer of 2019-2020 at ABI.
+This repository holds resources for the Summer Project 'Optimising Interaction with Teravoxel Images' I performed across the summer of 2019-2020 at ABI.
+
+High-resolution imaging using a custom-built microscope yields 3D images with sizes up to a terabyte.  Such images may have up to 4 channels, and dimensions around 40k x 10k x 2k, at 16-bit resolution.  This project seeked to develop efficient storage formats together with software for real-time interaction with the image volume. The approach taken was to construct a hierarchical data structure with information stored at multiple resolutions (Essentially, 3D Google Maps for cells).
 
 ## Contact
 | Contact Method    |                             |

@@ -6,8 +6,8 @@ High-resolution imaging using a custom-built microscope yields 3D images with si
 This repository holds resources for the Summer Project 'Optimising Interaction with Teravoxel Images' done across the summer of 2019-2020 at ABI. There is one file containing the functions of the package and three files which were used for benchmark testing.
 
 ## Contact
-| Contact Method    |                             |
-| ----------------- |:---------------------------:|
-| Linkedin          | linkedin.com/sabinayang0311 |
-| Personal Email    | sabinayang0311@gmail.com    |
-| School Email      | syan612@aucklanduni.ac.nz   |
+| Contact Method    |                                 |
+| ----------------- |:-------------------------------:|
+| Linkedin          | linkedin.com/in/sabinayang0311/ |
+| Personal Email    | sabinayang0311@gmail.com        |
+| School Email      | syan612@aucklanduni.ac.nz       |

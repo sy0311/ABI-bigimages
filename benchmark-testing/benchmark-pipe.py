@@ -7,9 +7,7 @@ import os
 import tracemalloc
 
 """
-This was one of the files used to benchmark test the computational cost (time and memory) of different methods of storage. 
-
-This file was used to test the computational costs of:
+This file was used to test the computational cost (time and memory) of:
 - Reading TIFF files
 - Saving image data into ZARR files
 - Downsampling
